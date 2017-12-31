@@ -1,0 +1,20 @@
+{
+  "name": "print-loader",
+  "version": "0.0.1",
+  "description": "A webpack loader that prints strings to the console",
+  "main": "print-loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kafil Uddin",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kukiron/print-loader.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kukiron/print-loader/issues"
+  },
+  "homepage": "https://github.com/kukiron/print-loader#readme"
+}
